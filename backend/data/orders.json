@@ -1,0 +1,22 @@
+[
+  {
+    "id": "c96a4861-3d7b-4d80-a958-6204d9875254",
+    "orderNumber": "TB-682685",
+    "firstName": "Azizbek",
+    "lastName": "Erkinjonov",
+    "phone": "+998957991810",
+    "address": "2271 86th St",
+    "items": [
+      {
+        "id": "1",
+        "name": "iPhone 15 Pro",
+        "qty": 1,
+        "price": 12999000
+      }
+    ],
+    "total": 12999000,
+    "status": "Yangi",
+    "createdAt": "2026-03-19T19:48:02.685Z",
+    "updatedAt": "2026-03-19T19:48:40.251Z"
+  }
+]
